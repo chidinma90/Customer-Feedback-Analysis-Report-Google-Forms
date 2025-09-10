@@ -31,7 +31,7 @@ The analysis highlights customer experience across key touchpoints, identifies i
 
 ## Data Source
 Customer Feedback Survey (Google Forms, June 2025 – 66 Responses)
-Survey designed and analyzed by *Chidinma Udeh*
+Survey designed and analyzed by *Chidinma Udeh.*
 Data anonymized for confidentiality.
 
 ## Conclusion
